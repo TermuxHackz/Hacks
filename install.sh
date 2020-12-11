@@ -5,7 +5,7 @@ clear
 
 echo ""
 echo ""
-echo " SUBSCRIBE MY CHANNEL ITS FOR GAMES BUT ILL CREATE ONE FOR HACKING SOON🔔 " | lolcat
+echo "" SUBSCRIBE MY CHANNEL ITS FOR GAMES BUT ILL CREATE ONE FOR HACKING SOON🔔 "" | lolcat
 xdg-open https://youtu.be/nIbfy20KGv0
 echo ""
 
