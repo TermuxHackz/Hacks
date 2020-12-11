@@ -64,7 +64,7 @@ echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m SPEED-X\e[0m\n";
 echo -e "\e[1;101m\e[1;97m15\e[1;101m\e[0m\e[1;96m SAYCHEESE\e[0m\n";
 echo -e "\e[1;101m\e[1;97m00\e[1;101m\e[0m\e[1;96m EXIT\e[0m\n";
 echo ""
-echo  "╭─ANONYMINHACK5" |lolcat
+echo  "╭─ANONYMINHACK5" | lolcat
 read -p "╰──►" pil;
 
 
