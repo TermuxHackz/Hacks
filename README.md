@@ -15,6 +15,7 @@ CODE BY ANONYMINHACK5
 
 # About
 Tools have been updated to beta version 2.1 and all errors have been fixed.
+Follow us for more updates on the tool because more hacking tools will be added
 # Requirements
 1) Android phone with 500mb+
 2) Termux app
