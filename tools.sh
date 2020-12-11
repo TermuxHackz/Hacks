@@ -11,18 +11,18 @@ echo ""
 echo -e "\e[101m Press Enter \e[0m"
 read a1
 
-echo "Loading..." | lolcat
+echo "Loading..." |
 sleep 2
 clear
 
-toilet -f future "ANONYMINHACK5" | lolcat
-echo "-------------------------------------------------------" | lolcat
-echo   "Author   : ANONYMINHACK5, ULTRAKID AND ELISHA $white" |lolcat
-echo   "Contact  : https://facebook.com/anonyminHack5 $white" |lolcat
-echo   "YouTube  : GAMER LINKS $white" |lolcat
-echo   "Blog     : https://termuxhack.simdif.com $white" |lolcat
-echo "-------------------------------------------------------" | lolcat
-echo "                           v2.0              " | lolcat
+toilet -f future "ANONYMINHACK5"
+echo "-------------------------------------------------------"
+echo   "Author   : ANONYMINHACK5, ULTRAKID AND ELISHA $white"
+echo   "Contact  : https://facebook.com/anonyminHack5 $white"
+echo   "YouTube  : GAMER LINKS $white"
+echo   "Blog     : https://termuxhack.simdif.com $white"
+echo "-------------------------------------------------------"
+echo "                           v2.0              " |
 ###################################################
 # CTRL + C
 ###################################################
@@ -34,11 +34,11 @@ echo ""
 echo  "⚠️NOT FOR ILLEGEL USE⚠️"
 sleep 1
 echo ""
-echo "ANONYMINHACK5" | lolcat
+echo "ANONYMINHACK5" 
 echo ""
-echo "BYE BYE 👋👋..." | lolcat
+echo "BYE BYE 👋👋..." 
 echo ""
-echo "COME BACK 🔜" | lolcat
+echo "COME BACK 🔜" 
 sleep 1
 exit
 }
@@ -65,7 +65,7 @@ echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m SPEED-X\e[0m\n";
 echo -e "\e[1;101m\e[1;97m15\e[1;101m\e[0m\e[1;96m CAMPHISH\e[0m\n";
 echo -e "\e[1;101m\e[1;97m00\e[1;101m\e[0m\e[1;96m EXIT\e[0m\n";
 echo ""
-echo  "╭─ANONYMINHACK5" | lolcat
+echo  "╭─ANONYMINHACK5"
 read -p "╰──►" pil;
 
 
@@ -291,14 +291,14 @@ bash camphish.sh
 ;;
 
 
-00) echo "created by : ANONYMINHACK5" | lolcat
+00) echo "created by : ANONYMINHACK5"
 exit
 
 
 ;;
 
 
-*) echo "sorry, the  option you looking is not found" | lolcat
+*) echo "sorry, the  option you looking is not found"
 esac
 done
 done
