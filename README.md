@@ -10,8 +10,11 @@ TERMUX HACKING TOOLS INSTALLATION SETUP 🗂️
 CODE BY ANONYMINHACK5
 
 # Contents
-15 hacking tools coded by anonyminhack5 and credits to ultrakid and elisha
+16 hacking tools coded by anonyminhack5 and credits to ultrakid and elisha
 
+
+# About
+Tools have been updated to beta version 2.1 and all errors have been fixed.
 # Requirements
 1) Android phone with 500mb+
 2) Termux app
