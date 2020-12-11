@@ -279,7 +279,10 @@ bash saycheese.sh
 
 00) echo "created by : ANONYMINHACK5" | lolcat
 exit
+
+
 ;;
+
 
 *) echo "sorry, the  option you looking is not found" | lolcat
 esac
