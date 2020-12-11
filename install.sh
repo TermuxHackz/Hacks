@@ -55,8 +55,8 @@ pkg install figlet
 apt install git php openssh curl -y
 pkg install python2 -y 
 pkg install nano php -y
-pip2 install mechanize
-pip2 install --upgrade pip
+pip install mechanize
+pip install --upgrade pip
 
 echo ""
 echo "CODE_BY_ANONYMIN_HACK5" | lolcat
