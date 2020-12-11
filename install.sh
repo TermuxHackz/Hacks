@@ -5,7 +5,7 @@ clear
 
 echo ""
 echo ""
-echo "" SUBSCRIBE MY CHANNEL ITS FOR GAMES BUT ILL CREATE ONE FOR HACKING SOON🔔 "" | lolcat
+echo "" SUBSCRIBE MY CHANNEL ITS FOR GAMES BUT ILL CREATE ONE FOR HACKING SOON🔔 ""
 xdg-open https://youtu.be/nIbfy20KGv0
 echo ""
 
@@ -15,24 +15,24 @@ read a1
 sleep 1
 clear
 
-echo "Loading..." | lolcat
+echo "Loading..."
 sleep 1
 clear
 
-echo "Loading..." | lolcat
+echo "Loading..."
 sleep 1
 clear
 
-echo "Loading..." | lolcat
+echo "Loading..."
 sleep 1
 clear
 
-toilet -f future "AnonyminHack5" | lolcat
-echo "-------------------------------------------------------" | lolcat
-echo   "Created  : ANONYMINHACK5 and Contributions to Ultrakid⁩ and Elisha⁩ $white" |lolcat
-echo   "Contact  : facebook.com/anonyminHack5 $white" |lolcat
-echo   "Group  : Termux Android Hackers $white" |lolcat
-echo "-------------------------------------------------------" | lolcat
+toilet -f future "AnonyminHack5"
+echo "-------------------------------------------------------"
+echo   "Created  : ANONYMINHACK5 and Contributions to Ultrakid⁩ and Elisha⁩ $white"
+echo   "Contact  : facebook.com/anonyminHack5 $white"
+echo   "Group  : Termux Android Hackers $white"
+echo "-------------------------------------------------------"
 
 trap ctrl_c INT
 ctrl_c() {
@@ -41,7 +41,7 @@ echo  "Detected, Trying To Exit  ... "
 echo ""
 sleep 1
 echo ""
-echo "ANONYMIN-HACK5" | lolcat
+echo "ANONYMIN-HACK5"
 sleep 1
 exit
 }
@@ -59,5 +59,5 @@ pip install mechanize
 pip install --upgrade pip
 
 echo ""
-echo "CODE_BY_ANONYMIN_HACK5" | lolcat
-echo "________________________" | lolcat
+echo "CODE_BY_ANONYMIN_HACK5"
+echo "________________________"
