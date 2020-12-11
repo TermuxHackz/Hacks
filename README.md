@@ -17,9 +17,11 @@ CODE BY ANONYMINHACK5
 2) Termux app
 
 # Installation
-``` apt update
+``` pkg update
 
-• apt install git
+• pkg install git
+
+• pip install mechanize
 
 • git clone https://github.com/TermuxHackz/Hacks
 
