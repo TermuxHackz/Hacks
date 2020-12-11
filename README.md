@@ -23,6 +23,10 @@ CODE BY ANONYMINHACK5
 
 • pip install mechanize
 
+• pkg install ruby -y
+
+• pkg install figlet 
+
 • git clone https://github.com/TermuxHackz/Hacks
 
 • cd Hacks
