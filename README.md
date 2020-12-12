@@ -68,4 +68,5 @@ This will remove Hacks directory
 
 Thanks for installing this tool, follow me and star this repo
 
-
+# Join our whatsapp group
+*https://chat.whatsapp.com/FfaBEji7JX8H84UFCSoox0*
